@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="PyIgnoreUnresolved" pattern="file[atd]:*||file:tools/pcommand" />
+</component>

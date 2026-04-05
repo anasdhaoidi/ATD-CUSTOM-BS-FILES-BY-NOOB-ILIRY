@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="External" pattern="file[Atd]:src/external//*" />
+</component>
